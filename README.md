@@ -1,7 +1,7 @@
 ## Bonjour, je m'appelle Florent 👋
 
 👨‍🎓 Étudiant en troisième année de licence Informatique à l'université d'*Avignon*.<br>
-🌱 Utilise TryHackMe tous les jours pour progresser en cybersécurité, domaine vers lequel je souhaite me spécialiser en master l'année prochaine.<br>
+🌱 Utilise [TryHackMe](https://tryhackme.com/p/NeyTeK) tous les jours (ou presque) pour progresser en cybersécurité.<br>
 🔭 Travaille actuellement sur le développement d'un fournisseur d'accès à Internet.<br>
 
 
