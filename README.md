@@ -1,8 +1,8 @@
 ## Bonjour, je m'appelle Florent 👋
 
-👨‍🎓 Étudiant en troisième année de licence Informatique à l'université d'*Avignon*.
-🌱 Utilise TryHackMe tous les jours pour progresser en cybersécurité, domaine vers lequel je souhaite me spécialiser en master l'année prochaine.
-🔭 Travaille actuellement sur le développement d'un fournisseur d'accès à Internet.
+👨‍🎓 Étudiant en troisième année de licence Informatique à l'université d'*Avignon*.<br>
+🌱 Utilise TryHackMe tous les jours pour progresser en cybersécurité, domaine vers lequel je souhaite me spécialiser en master l'année prochaine.<br>
+🔭 Travaille actuellement sur le développement d'un fournisseur d'accès à Internet.<br>
 
 
 ## 🌐 Socials:
