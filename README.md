@@ -2,7 +2,6 @@
 
 👨‍🎓 Étudiant en troisième année de licence Informatique à l'université d'*Avignon*.<br>
 🌱 Utilise [TryHackMe](https://tryhackme.com/p/NeyTeK) tous les jours (ou presque) pour progresser en cybersécurité.<br>
-🔭 Travaille actuellement sur le développement d'un fournisseur d'accès à Internet.<br>
 
 
 ## 🌐 Socials:
